@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WAFoundation",
+        "repositoryURL": "https://github.com/Watchants/WAFoundation.git",
+        "state": {
+          "branch": "master",
+          "revision": "d952526daf8dba03af391ae976696b5dc521f6a8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
